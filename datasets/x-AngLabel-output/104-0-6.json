@@ -1,0 +1,101 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          1487.655172413793,
+          1948.2758620689656
+        ],
+        [
+          956.6206896551726,
+          1931.034482758621
+        ],
+        [
+          1008.344827586207,
+          1120.689655172414
+        ],
+        [
+          1501.4482758620688,
+          1148.2758620689656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          373.8620689655172,
+          2158.6206896551726
+        ],
+        [
+          604.8965517241377,
+          1948.2758620689656
+        ],
+        [
+          704.8965517241377,
+          1824.1379310344828
+        ],
+        [
+          1239.3793103448274,
+          2231.034482758621
+        ],
+        [
+          1073.8620689655172,
+          2489.6551724137935
+        ],
+        [
+          946.2758620689656,
+          2637.9310344827586
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          2284.206896551724,
+          2955.1724137931037
+        ],
+        [
+          1953.1724137931033,
+          3237.931034482759
+        ],
+        [
+          2295,
+          3704
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\bvn\\images\\val\\104-0-6.jpg",
+  "imageData": null,
+  "imageHeight": 4080,
+  "imageWidth": 2296
+}

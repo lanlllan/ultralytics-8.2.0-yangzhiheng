@@ -1,0 +1,105 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          127.16666666666697,
+          1469.1666666666667
+        ],
+        [
+          164.66666666666697,
+          823.3333333333331
+        ],
+        [
+          568.8333333333335,
+          860.8333333333331
+        ],
+        [
+          531.3333333333335,
+          1485.8333333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          1452.166666666667,
+          1590.0
+        ],
+        [
+          1493.8333333333335,
+          1252.5
+        ],
+        [
+          1810.5,
+          1219.1666666666667
+        ],
+        [
+          2143.833333333334,
+          1290.0
+        ],
+        [
+          2135.5,
+          1731.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          1131.3333333333335,
+          2077.5
+        ],
+        [
+          818.8333333333335,
+          2306.6666666666665
+        ],
+        [
+          1085.5,
+          2690.0
+        ],
+        [
+          1518.8333333333335,
+          2290.0
+        ],
+        [
+          1139.666666666667,
+          2331.6666666666665
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": true,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\bvn\\images\\val\\103-0-1.jpg",
+  "imageData": null,
+  "imageHeight": 3780,
+  "imageWidth": 2296
+}

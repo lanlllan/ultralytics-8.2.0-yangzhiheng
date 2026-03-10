@@ -1,0 +1,97 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          214.2500000000001,
+          1227.5
+        ],
+        [
+          299.2500000000001,
+          570.0
+        ],
+        [
+          734.2500000000001,
+          615.0
+        ],
+        [
+          659.2500000000001,
+          1272.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          1631.75,
+          1197.5
+        ],
+        [
+          1656.75,
+          845.0
+        ],
+        [
+          2251.75,
+          945.0
+        ],
+        [
+          2236.75,
+          1317.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          886.7500000000001,
+          2220.0
+        ],
+        [
+          1431.75,
+          1847.5
+        ],
+        [
+          1706.75,
+          2235.0
+        ],
+        [
+          1156.75,
+          2632.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\bvn\\images\\val\\102-0-0.jpg",
+  "imageData": null,
+  "imageHeight": 4080,
+  "imageWidth": 2296
+}

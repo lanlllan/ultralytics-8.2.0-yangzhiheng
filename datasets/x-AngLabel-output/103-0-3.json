@@ -1,0 +1,105 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          131.33333333333348,
+          1465.0
+        ],
+        [
+          168.83333333333348,
+          835.8333333333331
+        ],
+        [
+          556.3333333333335,
+          864.9999999999999
+        ],
+        [
+          535.5,
+          1465.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          1435.5,
+          1602.5
+        ],
+        [
+          1489.666666666667,
+          1256.6666666666667
+        ],
+        [
+          1764.666666666667,
+          1210.8333333333333
+        ],
+        [
+          2135.5,
+          1281.6666666666667
+        ],
+        [
+          2110.5,
+          1731.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          802.166666666667,
+          2319.1666666666665
+        ],
+        [
+          1114.666666666667,
+          2073.333333333333
+        ],
+        [
+          1152.166666666667,
+          2319.1666666666665
+        ],
+        [
+          1523.0,
+          2302.5
+        ],
+        [
+          1064.666666666667,
+          2677.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\bvn\\images\\val\\103-0-3.jpg",
+  "imageData": null,
+  "imageHeight": 3780,
+  "imageWidth": 2296
+}
