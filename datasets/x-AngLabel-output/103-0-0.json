@@ -1,0 +1,105 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          106.33333333333348,
+          1458.5
+        ],
+        [
+          152.16666666666697,
+          850.1666666666665
+        ],
+        [
+          548.0,
+          858.4999999999999
+        ],
+        [
+          543.8333333333335,
+          1462.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          1456.3333333333335,
+          1600.1666666666667
+        ],
+        [
+          1493.8333333333335,
+          1271.0
+        ],
+        [
+          1785.5,
+          1204.3333333333333
+        ],
+        [
+          2143.833333333334,
+          1291.8333333333333
+        ],
+        [
+          2127.166666666667,
+          1716.8333333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          1127.166666666667,
+          2071.0
+        ],
+        [
+          798.0,
+          2316.833333333333
+        ],
+        [
+          1064.666666666667,
+          2683.5
+        ],
+        [
+          1523.0,
+          2308.5
+        ],
+        [
+          1168.8333333333335,
+          2333.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": true,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\bvn\\images\\val\\103-0-0.jpg",
+  "imageData": null,
+  "imageHeight": 3792,
+  "imageWidth": 2296
+}

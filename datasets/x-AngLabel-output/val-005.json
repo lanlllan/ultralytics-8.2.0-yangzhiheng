@@ -1,0 +1,229 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          266.3448275862067,
+          334.0
+        ],
+        [
+          504.2758620689654,
+          308.13793103448273
+        ],
+        [
+          559.4482758620688,
+          744.3448275862069
+        ],
+        [
+          314.62068965517227,
+          766.7586206896551
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          1052.551724137931,
+          1027.103448275862
+        ],
+        [
+          1211.1724137931035,
+          815.0344827586207
+        ],
+        [
+          1287.0344827586207,
+          715.0344827586207
+        ],
+        [
+          1468.0689655172414,
+          844.3448275862069
+        ],
+        [
+          1321.5172413793102,
+          1059.8620689655174
+        ],
+        [
+          1226.6896551724137,
+          1168.4827586206898
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          706.0,
+          4.689655172413742
+        ],
+        [
+          997.3793103448274,
+          4.689655172413742
+        ],
+        [
+          1038.7586206896551,
+          33.99999999999996
+        ],
+        [
+          1037.0344827586207,
+          66.75862068965512
+        ],
+        [
+          1085.310344827586,
+          83.99999999999996
+        ],
+        [
+          937.0344827586207,
+          287.44827586206895
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          1864.6206896551726,
+          256.41379310344826
+        ],
+        [
+          1857.7241379310344,
+          496.0689655172414
+        ],
+        [
+          2011,
+          496
+        ],
+        [
+          2011,
+          265
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          1828.4137931034484,
+          658.1379310344827
+        ],
+        [
+          2011,
+          683
+        ],
+        [
+          1988.7586206896553,
+          1085.7241379310346
+        ],
+        [
+          1762.8965517241381,
+          1056.4137931034484
+        ],
+        [
+          1785.310344827586,
+          847.7931034482758
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          166.3448275862067,
+          1513.3103448275863
+        ],
+        [
+          249.10344827586192,
+          1352.9655172413795
+        ],
+        [
+          466.3448275862067,
+          1451.2413793103449
+        ],
+        [
+          424.96551724137913,
+          1513.3103448275863
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          788.7586206896551,
+          1511.5862068965519
+        ],
+        [
+          807.7241379310344,
+          1449.5172413793105
+        ],
+        [
+          1126.6896551724137,
+          1515.0344827586207
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\bvn\\images\\val\\val-005.jpg",
+  "imageData": null,
+  "imageHeight": 1518,
+  "imageWidth": 2012
+}

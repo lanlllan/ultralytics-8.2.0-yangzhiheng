@@ -1,0 +1,105 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          535.8378378378378,
+          1480.4324324324323
+        ],
+        [
+          111.51351351351343,
+          1464.216216216216
+        ],
+        [
+          165.5675675675676,
+          826.3783783783784
+        ],
+        [
+          562.8648648648649,
+          856.1081081081081
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          1460.162162162162,
+          1602.054054054054
+        ],
+        [
+          1492.5945945945946,
+          1258.8108108108106
+        ],
+        [
+          1770.972972972973,
+          1212.8648648648648
+        ],
+        [
+          2135.8378378378375,
+          1280.4324324324323
+        ],
+        [
+          2122.324324324324,
+          1729.081081081081
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          792.5945945945945,
+          2318.27027027027
+        ],
+        [
+          1116.9189189189187,
+          2075.027027027027
+        ],
+        [
+          1138.5405405405404,
+          2329.081081081081
+        ],
+        [
+          1541.243243243243,
+          2310.162162162162
+        ],
+        [
+          1068.27027027027,
+          2680.4324324324325
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\bvn\\images\\val\\103-0-5.jpg",
+  "imageData": null,
+  "imageHeight": 3796,
+  "imageWidth": 2296
+}

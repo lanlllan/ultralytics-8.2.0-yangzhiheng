@@ -1,0 +1,208 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          321.7500000000001,
+          1532.5
+        ],
+        [
+          529.2500000000001,
+          1067.5
+        ],
+        [
+          779.2500000000001,
+          1247.5
+        ],
+        [
+          584.2500000000001,
+          1667.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          1054.25,
+          1640.0
+        ],
+        [
+          1286.75,
+          1275.0
+        ],
+        [
+          1491.75,
+          1400.0
+        ],
+        [
+          1439.25,
+          1620.0
+        ],
+        [
+          1394.25,
+          1672.5
+        ],
+        [
+          1211.75,
+          1742.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          1696.75,
+          1475.0
+        ],
+        [
+          1741.75,
+          1280.0
+        ],
+        [
+          1801.75,
+          1077.5
+        ],
+        [
+          1964.25,
+          1135.0
+        ],
+        [
+          2024.25,
+          1147.5
+        ],
+        [
+          1966.75,
+          1495.0
+        ],
+        [
+          1849.25,
+          1505.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          1304.25,
+          2000.0
+        ],
+        [
+          1236.75,
+          1807.5
+        ],
+        [
+          1431.75,
+          1720.0
+        ],
+        [
+          1494.25,
+          1917.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          1791.75,
+          2150.0
+        ],
+        [
+          1669.25,
+          1765.0
+        ],
+        [
+          2064.25,
+          1652.5
+        ],
+        [
+          2171.75,
+          2002.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          671.7500000000001,
+          2552.5
+        ],
+        [
+          654.2500000000001,
+          2532.5
+        ],
+        [
+          624.2500000000001,
+          2220.0
+        ],
+        [
+          1111.75,
+          2167.5
+        ],
+        [
+          1151.75,
+          2515.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\bvn\\images\\val\\101-3-5.jpg",
+  "imageData": null,
+  "imageHeight": 4080,
+  "imageWidth": 2296
+}
