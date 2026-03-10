@@ -1,0 +1,8 @@
+Looking in indexes: https://mirrors.aliyun.com/pypi/simple/
+Collecting onnx
+  Downloading https://mirrors.aliyun.com/pypi/packages/2d/c8/5cc6f2c7b33547099506dcee04ab3c2dafc4f2f034d67fc158a7bc0a2474/onnx-1.17.0-cp38-cp38-win_amd64.whl (14.5 MB)
+     --------------------------------------- 14.5/14.5 MB 13.0 MB/s eta 0:00:00
+Requirement already satisfied: numpy>=1.20 in c:\users\admi\miniconda3\envs\yolov8\lib\site-packages (from onnx) (1.24.3)
+Requirement already satisfied: protobuf>=3.20.2 in c:\users\admi\miniconda3\envs\yolov8\lib\site-packages (from onnx) (5.29.6)
+Installing collected packages: onnx
+Successfully installed onnx-1.17.0

@@ -1,0 +1,44 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          676.4615384615385,
+          1752.3076923076922
+        ],
+        [
+          1325.6923076923076,
+          1256.923076923077
+        ],
+        [
+          1557.7319587628867,
+          1438.9690721649483
+        ],
+        [
+          1754.9230769230767,
+          1624.6153846153845
+        ],
+        [
+          1087.230769230769,
+          2192.3076923076924
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "002-1-5.jpg",
+  "imageData": null,
+  "imageHeight": 4080,
+  "imageWidth": 2296,
+  "description": ""
+}

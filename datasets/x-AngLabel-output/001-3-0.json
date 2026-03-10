@@ -1,0 +1,39 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          783.483870967742,
+          1528.7096774193546
+        ],
+        [
+          1406.0645161290322,
+          1544.8387096774193
+        ],
+        [
+          1409.290322580645,
+          2560.967741935484
+        ],
+        [
+          664.1290322580644,
+          2557.7419354838707
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\..\\images\\train\\001-3-0.jpg",
+  "imageData": null,
+  "imageHeight": 4080,
+  "imageWidth": 2296
+}

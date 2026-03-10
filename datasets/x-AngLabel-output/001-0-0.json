@@ -1,0 +1,40 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "waybill",
+      "score": null,
+      "points": [
+        [
+          951.8461538461539,
+          943.0769230769231
+        ],
+        [
+          1482.2033898305085,
+          945.7627118644068
+        ],
+        [
+          1494.9230769230767,
+          1827.6923076923076
+        ],
+        [
+          933.3846153846154,
+          1827.6923076923076
+        ]
+      ],
+      "group_id": null,
+      "description": "快递单",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "001-0-0.jpg",
+  "imageData": null,
+  "imageHeight": 4080,
+  "imageWidth": 2296,
+  "description": ""
+}
